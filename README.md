@@ -27,4 +27,4 @@ will build your game and package into a .zip file, you can upload to your server
 
 ## Description
 
-This is a collection of educational games.
+This is a collection of educational games. It's meant to be a project collaborated with students.
